@@ -77,7 +77,7 @@ function draw(){
 
         //모델과 generate를 다시 호출해주어야함. 
         if(strokePath.pen !=="end"){ 
-            strokePath = null // end인 경우지만 line이 그려질 확률이 있으므로
+            strokePath = null // end인 경우지만 line이 그려질 확률이 있으므로,
             model.generate(gotStroke)
         }
     }
