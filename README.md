@@ -1,6 +1,8 @@
 # DevFest2021-SketchRNN
 [GDSC Sangmyung]DevFest2021 시리야 그림 그려줘
 
+- [그림 예제](https://github.com/dsc-sangmyung/DevFest2021-SketchRNN/blob/main/models.js)
+
 
 ### 인용 논문, 참고 사이트
 
